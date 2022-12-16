@@ -1,8 +1,7 @@
 package net.yorksolutions.demo.controlers;
 
 import net.yorksolutions.demo.models.Fabric;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+
 import org.springframework.web.bind.annotation.*;
 
 import java.io.File;
